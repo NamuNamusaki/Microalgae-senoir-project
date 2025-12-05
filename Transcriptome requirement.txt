@@ -1,0 +1,127 @@
+Transcriptome requirement
+
+Folder structure
+project_directory/Transcriptomics/   #อะไรก็ได้
+│Home/
+├── Genomics/
+│   ├── Data/
+│   │   ├── Chlorella_clororororo/
+│   │   │   └── genome.fna         <-- (ไฟล์จีโนม)
+│   │   └── Chlamy_clalamylamy/
+│   │       └── genome.fna
+│   │
+│   └── Result/
+│       ├── AUGUSTUS/
+│       │   ├── Chlorella_clororororo/
+│       │   │   └── augustus.gff3  <-- (ไฟล์ Annotation)
+│       │   └── Chlamy_clororororo/
+│       │       └── augustus.gff3
+│       ├── BUSCO/
+│       └── QUAST/
+│
+└── Transcriptomics_Pipeline/
+    ├── 📜 run_reference_only_pipeline.py    (สคริปต์ Python หลัก)
+    ├── 📜 prepare_references.sh             (สคริปต์ "สะพาน" **เวอร์ชันใหม่**)
+    │
+    ├── 📑 samples.csv                        (แผนที่: SRA ID -> Species Name)
+    ├── 📑 genome_map.csv                      (แผนที่: Species Name -> "Chlorella", "Chlamy")
+    │
+    ├── 📂 reference_data/
+    │   │   # (ลิงก์ที่ถูกสร้างโดย prepare_references.sh)
+    │   ├── Chlorella.fa   -> (ลิงก์ไปยัง ../Genomics/Data/Chlorella/genome.fna)
+    │   └── Chlorella.gff3 -> (ลิงก์ไปยัง ../Genomics/Result/AUGUSTUS/Chlorella/augustus.gff3)
+    │
+    └── 📂 analysis_output/
+        └── ... (ผลลัพธ์ Transcriptomics)
+
+ขั้นตอน
+ใช้ Python version 1.0
+
+1.Dowload tools 
+-SRA-Toolkit (สำหรับ prefetch, fastq-dump)
+-FastQC 
+-Trimmomatic
+-STAR
+-HTSeq
+
+-SRA-Toolkit
+-> Manual download
+1.ดาวน์โหลดไฟล์จากเว็บไซต์และextract
+wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/2.10.8/sratoolkit.2.10.8-centos_linux64.tar.gztar -xzf sratoolkit.3.2.1-ubuntu64.tar.gz
+2.extract file
+tar -vxzf sratoolkit.2.10.8-centos_linux64.tar.gz
+3.cd เข้าไปที่ folder sratoolkit.2.10.8-centos_linux64/bin
+get directory path using "pwd"
+4 cd กลับมาหน้าแรก
+ใช้คำสั่ง nano .bashrc
+เขียน export PATH=$PATH:/home_sbi_cold/ของตัวเอง/ratoolkit.2.10.8-centos_linux64/bin
+ไว้ท้ายสุดไฟล์
+5.รันคำสั่ง
+source ~/.bashrc
+6.Check -> ใช้คำสั่ง prefetch --version
+7.ตั้งค่า SRA toolkit ก่อนใช้งาน -> ศึกษาเพิ่มเติม
+
+-FastQC
+ใช้คำสั่งของminiconda ได้ง่ายๆเลย
+ conda install -c bioconda fastqc
+
+-Trimmomatic
+ใช้คำสั่งของminiconda ได้ง่ายๆเลย
+conda install -c bioconda trimmomatic
+
+-STAR
+-> Manual download command
+1.ดาวน์โหลดไฟล์จากเว็บไซต์และextract file
+wget https://github.com/alexdobin/STAR/archive/2.7.11b.tar.gz
+tar -xzf 2.7.11b.tar.gz
+cd STAR-2.7.11b
+2.ทำให้ไฟล์มันใช้ได้
+ 2.1cd STAR-2.7.11b/bin/Linux_x86_64_static
+ 2.2pwd เพื่อรับpath ของ folder นี้มา (copy)
+ 2.3กลับมาที่หน้าแรกโดยใช้คำสั่ง cd 
+ 2.4 nano .bashrc แล้วเลื่อนไปล่างสุดของไฟล์เพื่อใส่ PATH fileของเรา (เปลี่ยนชื่อ path ตาม PWD )
+   คำสั่ง -----> export PATH=$PATH:/your/full/path/to/STAR_folder
+   ตัวอย่าง export PATH=$PATH:/home_sbi_cold/salilthip.pray/STAR-2.7.11b/bin/Linux_x86_64_static
+ 2.5 เมื่อ save ออกมาแล้วใช้คำสั่ง source ~/.bashrc เพื่อreload ให้จำคำสั่งมหท่
+3.เช็คผล
+STAR --version -> ขึ้น versionตามทื่เราโหลดมาติดตั้ง
+
+-HTseq
+conda install -c bioconda htseq
+ใช้ pip ติดตั้งโดยตรง pip install htseq==2.0.2
+ถ้ามีปัญหาลองเลื่อนดูด้านล่างสุด
+
+
+2.เตรียมไฟล์ -> clear data เสร็จแล้วจะextractมาทำให้
+
+-สร้างไฟล์เก็บชื่อและรหัสสปีชีส์ของ Genomics
+-> ตัวอย่างหน้าตาไฟล์
+species_name,assembly_accession             #ชื่อคอลัมน์
+Arabidopsis_thaliana,GCA_000002595.3
+Oryza_sativa,GCA_001433935.1
+Zea_mays,GCA_000005005.6
+
+-รันสคริปต์ prepare_references.sh ที่จะทำการเอาไฟล์ .fa .gff มาใช้ต่อในทรานสคริปโตม
+
+-sample.csvเอาไว้สั่งโหลด SRA file ที่ต้องการ
+ตัวอย่างหน้าตาไฟล์ sample.csv
+sra_id,species_name
+SRR5660030,Arabidopsis_thaliana
+SRR5660033,Arabidopsis_thaliana
+SRR1234567,Oryza_sativa
+SRR1234568,Oryza_sativa
+SRR9876543,Zea_mays
+
+- ไฟล์ Adapter
+- Buildฐานข้อมูลของ Trinotate -> Swissplot ต่างๆ *****
+
+
+****แก้ปัญหา HTSeq
+-ติดตั้ง numpy
+conda install numpy
+-ติดตั้ง pysam
+conda install pysam
+-ติดตั้ง compiler
+conda install -c conda-forge c-compiler cxx-compiler
+-ติดตั้ง HTseq
+pip install htseq==2.0.2
