@@ -1,0 +1,59 @@
+Species,Strain,Run,Bioproject,Condition,Condition_detail,Sample_id,Genotype_label,Is_control,Replicate,Compound,ELOVL6,HSD17B12,fabD,fabI,ACSL,K10203 ELOVL6,K10251 HSD17B12,K00645 fabD,K00208 fabI,K01897 ACSL,Label
+Nannochloropsis sp.,PJ12,SRR8380403,PRJNA512233,Phosphorus,three days after medium shift to f/2 without phosphorus,PD_rep1,NA,0,1,EPA (PUFAs),1,1,1,1,1,2917.22,376.3,309.16,276.34,538.29,Medium
+Nannochloropsis sp.,PJ12,SRR8380404,PRJNA512233,Phosphorus,three days after medium shift to f/2 without phosphorus,PD_rep2,NA,0,2,EPA (PUFAs),1,1,1,1,1,2797,366.24,321.59,278.35,532.15,Medium
+Nannochloropsis sp.,PJ12,SRR8380405,PRJNA512233,Phosphorus,three days after medium shift to f/2 without phosphorus,PD_rep3,NA,0,3,EPA (PUFAs),1,1,1,1,1,2830.9,367.86,312.34,281.89,534.16,Low
+Nannochloropsis sp.,PJ12,SRR8380406,PRJNA512233,Phosphorus,three days after medium shift to f/2 with phosphorus replenishment,PD-PR_rep1,NA,0,1,EPA (PUFAs),1,1,1,1,1,2246.41,315.46,182.33,313.27,722.86,Medium
+Nannochloropsis sp.,PJ12,SRR8380407,PRJNA512233,Phosphorus,three days after medium shift to f/2 with phosphorus replenishment,PD-PR_rep2,NA,0,2,EPA (PUFAs),1,1,1,1,1,2173.34,309.38,191.45,326.23,738.53,Medium
+Nannochloropsis sp.,PJ12,SRR8380408,PRJNA512233,Phosphorus,three days after medium shift to f/2 with phosphorus replenishment,PD-PR_rep3,NA,0,3,EPA (PUFAs),1,1,1,1,1,2231.79,311.3,161.57,330.38,737.16,Medium
+Nannochloropsis sp.,PJ12,SRR8380409,PRJNA512233,Phosphorus,three days after medium shift to f/2 with phosphorus,PR_rep1,NA,1,1,EPA (PUFAs),1,1,1,1,1,1366.31,387.09,260.13,459.33,666.44,Medium
+Nannochloropsis sp.,PJ12,SRR8380410,PRJNA512233,Phosphorus,three days after medium shift to f/2 with phosphorus,PR_rep2,NA,1,2,EPA (PUFAs),1,1,1,1,1,1347.91,424.98,232.46,452.63,714,High
+Nannochloropsis sp.,PJ12,SRR8380411,PRJNA512233,Phosphorus,three days after medium shift to f/2 with phosphorus,PR_rep3,NA,1,3,EPA (PUFAs),1,1,1,1,1,1365.94,381.3,234.44,464.74,671.08,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047460,PRJNA285666,Light,just prior to lights on,Time0-replicate 1,NA,1,1,Fatty Acid,1,1,1,1,1,878.59,963.65,702.65,928.39,2132.57,High
+Nannochloropsis oceanica ,CCMP1779,SRR2047461,PRJNA285666,Light,just prior to lights on,Time0-replicate 2,NA,1,2,Fatty Acid,1,1,1,1,1,867.18,1004.96,727.9,977.94,2274.63,High
+Nannochloropsis oceanica ,CCMP1779,SRR2047462,PRJNA285666,Light,3 hours into light period,Time3-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,725.76,676.23,686.44,643.57,1016.92,High
+Nannochloropsis oceanica ,CCMP1779,SRR2047463,PRJNA285666,Light,3 hours into light period,Time3-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,680.44,636.58,652.65,620.71,1055.55,High
+Nannochloropsis oceanica ,CCMP1779,SRR2047464,PRJNA285666,Light,6 hours into light period,Time6-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,626.6,645.53,340.34,303.79,789.02,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047465,PRJNA285666,Light,6 hours into light period,Time6-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,607.62,619.83,357.08,323.99,810.49,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047466,PRJNA285666,Light,9 hours into light period,Time9-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,674.37,491.83,101.3,161.43,702.34,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047467,PRJNA285666,Light,9 hours into light period,Time9-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,682.65,477.38,124.53,175.55,612.35,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047468,PRJNA285666,Light,12 hours into light period,Time12-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,477.91,255.16,61.08,149.33,601.54,Low
+Nannochloropsis oceanica ,CCMP1779,SRR2047469,PRJNA285666,Light,12 hours into light period,Time12-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,561.27,255.15,64.89,150.29,608.83,Low
+Nannochloropsis oceanica ,CCMP1779,SRR2047470,PRJNA285666,Light,3 hours into dark period,Time15-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,2943.27,307.18,90,189.15,880.37,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047471,PRJNA285666,Light,3 hours into dark period,Time15-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,2777.94,286.87,75.6,188.5,828.97,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047472,PRJNA285666,Light,6 hours into dark period,Time18-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,1576.16,365.05,230.98,301.61,930.47,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047473,PRJNA285666,Light,6 hours into dark period,Time18-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,1735.35,343.59,195.23,293.47,889.26,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047474,PRJNA285666,Light,9 hours into dark period,Time21-replicate 1,NA,0,1,Fatty Acid,1,1,1,1,1,628.76,569.41,618.09,666.34,969.33,Medium
+Nannochloropsis oceanica ,CCMP1779,SRR2047475,PRJNA285666,Light,9 hours into dark period,Time21-replicate 2,NA,0,2,Fatty Acid,1,1,1,1,1,700.82,525.4,619.63,652.33,955.55,Medium
+Nannochloropsis oceanica,IMET1,SRR11638045,PRJNA629048,Phosphorus,phosphate deprivation 24h,T24h-P-b,NA,0,2,Lipid Synthesis,1,1,1,1,1,947.17,486.4,440.14,693.62,358.08,Medium
+Nannochloropsis oceanica,IMET1,SRR11638046,PRJNA629048,Phosphorus,phosphate deprivation 0h,T0h-b,NA,1,2,Lipid Synthesis,1,1,1,1,1,1450.66,685.11,731.47,812.15,677.4,High
+Nannochloropsis oceanica,IMET1,SRR11638047,PRJNA629048,Phosphorus,phosphate deprivation 0h,T0h-a,NA,1,1,Lipid Synthesis,1,1,1,1,1,1439.9,691.99,789.54,842.88,652.09,High
+Nannochloropsis oceanica,IMET1,SRR11638048,PRJNA629048,Phosphorus,phosphate deprivation 24h,T24h-P-a,NA,0,1,Lipid Synthesis,1,1,1,1,1,1025.18,437.31,461.73,683.02,34.58,Medium
+Nannochloropsis oceanica,IMET1,SRR11638049,PRJNA629048,Phosphorus,phosphate deprivation 12h,T12h-P-c,NA,0,3,Lipid Synthesis,1,1,1,1,1,629.14,515.29,284.16,359.67,264.31,Low
+Nannochloropsis oceanica,IMET1,SRR11638050,PRJNA629048,Phosphorus,phosphate deprivation 12h,T12h-P-b,NA,0,2,Lipid Synthesis,1,1,1,1,1,680.04,475.25,276.1,390.1,275.76,Medium
+Nannochloropsis oceanica,IMET1,SRR11638051,PRJNA629048,Phosphorus,phosphate deprivation 12h,T12h-P-a,NA,0,1,Lipid Synthesis,1,1,1,1,1,794.29,576.67,301.14,367.21,255.68,Medium
+Nannochloropsis oceanica,IMET1,SRR11638052,PRJNA629048,Phosphorus,phosphate deprivation 6h,T6h-P-c,NA,0,3,Lipid Synthesis,1,1,1,1,1,1251.01,739.62,479.37,537.08,448.11,Medium
+Nannochloropsis oceanica,IMET1,SRR11638053,PRJNA629048,Phosphorus,phosphate deprivation 6h,T6h-P-b,NA,0,2,Lipid Synthesis,1,1,1,1,1,1168.21,682.08,496.22,638.43,386.54,Medium
+Nannochloropsis oceanica,IMET1,SRR11638054,PRJNA629048,Phosphorus,phosphate deprivation 6h,T6h-P-a,NA,0,1,Lipid Synthesis,1,1,1,1,1,1268.77,688.72,504.47,656.16,386.04,High
+Nannochloropsis oceanica,IMET1,SRR11638055,PRJNA629048,Phosphorus,phosphate deprivation 0h,T0h-c,NA,1,3,Lipid Synthesis,1,1,1,1,1,1311.24,681.91,742.64,974.83,707.2,Medium
+Nannochloropsis oceanica,IMET1,SRR11638056,PRJNA629048,Phosphorus,phosphate deprivation 48h,T48h-P-c,NA,0,3,Lipid Synthesis,1,1,1,1,1,1311.24,503.2,338.25,561.07,272.77,Medium
+Nannochloropsis oceanica,IMET1,SRR11638057,PRJNA629048,Phosphorus,phosphate deprivation 48h,T48h-P-b,NA,0,2,Lipid Synthesis,1,1,1,1,1,1300.35,515.15,404.34,603.76,310.73,Medium
+Nannochloropsis oceanica,IMET1,SRR11638058,PRJNA629048,Phosphorus,phosphate deprivation 48h,T48h-P-a,NA,0,1,Lipid Synthesis,1,1,1,1,1,1245.36,453.7,323.76,510.26,247.13,Medium
+Nannochloropsis oceanica,IMET1,SRR11638059,PRJNA629048,Phosphorus,phosphate deprivation 24h,T24h-P-c,NA,0,3,Lipid Synthesis,1,1,1,1,1,953.03,466.47,408.07,703.78,348.17,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947723,PRJNA279965,Nitrogen,Nitrogen-replete,WT +N rep1,NA,1,1,lipid biosynthesis,1,1,1,1,1,41.04,983.62,74.83,112.92,360.12,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947724,PRJNA279965,Nitrogen,Nitrogen-replete,WT +N rep2,NA,1,2,lipid biosynthesis,1,1,1,1,1,44.45,1064.7,77.63,129.29,368.19,High
+Phaeodactylum tricornutum,pt1 8.6,SRR1947725,PRJNA279965,Nitrogen,Nitrogen-replete,WT +N rep3,NA,1,3,lipid biosynthesis,1,1,1,1,1,46.9,1016.36,76.74,144.32,359.59,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947726,PRJNA279965,Nitrogen,Nitrogen-starved,WT -N rep1,NA,0,1,lipid biosynthesis,1,1,1,1,1,18.69,1418.13,0.26,2.07,85.94,Low
+Phaeodactylum tricornutum,pt1 8.6,SRR1947727,PRJNA279965,Nitrogen,Nitrogen-starved,WT -N rep2,NA,0,2,lipid biosynthesis,1,1,1,1,1,17.52,1217.21,0.86,4,86.53,Low
+Phaeodactylum tricornutum,pt1 8.6,SRR1947728,PRJNA279965,Nitrogen,Nitrogen-starved,WT -N rep3,NA,0,3,lipid biosynthesis,1,1,1,1,1,15.5,3527.86,1.9,4.93,81.26,Low
+Phaeodactylum tricornutum,pt1 8.6,SRR1947729,PRJNA279965,Genotype,knock-down_nitrogen-replete,NR +N rep1,Knockdown,0,1,lipid biosynthesis,1,1,1,1,1,62.32,3149.63,59.37,110.76,355.84,High
+Phaeodactylum tricornutum,pt1 8.6,SRR1947730,PRJNA279965,Genotype,knock-down_nitrogen-replete,NR +N rep2,Knockdown,0,2,lipid biosynthesis,1,1,1,1,1,50.89,3099.47,47.38,98.85,358.16,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947731,PRJNA279965,Genotype,knock-down_nitrogen-replete,NR +N rep3,Knockdown,0,3,lipid biosynthesis,1,1,1,1,1,57.62,2732.21,39.02,70.45,349.15,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947732,PRJNA279965,Genotype,knock-down_nitrogen-starved,NR -N rep1,Knockdown,0,1,lipid biosynthesis,1,1,1,1,1,28.6,4331.22,0.61,4.27,112.87,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947733,PRJNA279965,Genotype,knock-down_nitrogen-starved,NR -N rep2,Knockdown,0,2,lipid biosynthesis,1,1,1,1,1,33.94,2377.98,20,37.69,205.46,Medium
+Phaeodactylum tricornutum,pt1 8.6,SRR1947734,PRJNA279965,Genotype,knock-down_nitrogen-starved,NR -N rep3,Knockdown,0,3,lipid biosynthesis,1,1,1,1,1,15.43,3228.61,0.56,1.67,79.03,Medium
+Phaeodactylum tricornutum,NA,SRR1208033,PRJNA242990,Nitrogen,with nitrogen source,with nitrogen rep1,NA,1,1,lipid biosynthesis,1,1,1,1,1,41.04,983.62,74.83,112.92,360.12,Medium
+Phaeodactylum tricornutum,NA,SRR1208034,PRJNA242990,Nitrogen,with nitrogen source,with nitrogen rep2,NA,1,2,lipid biosynthesis,1,1,1,1,1,44.45,1064.7,77.63,129.29,368.19,High
+Phaeodactylum tricornutum,NA,SRR1208035,PRJNA242990,Nitrogen,with nitrogen source,with nitrogen rep3,NA,1,3,lipid biosynthesis,1,1,1,1,1,46.9,1016.36,76.74,144.32,359.59,Medium
+Phaeodactylum tricornutum,NA,SRR1208036,PRJNA242990,Nitrogen,without nitrogen source,without nitrogen rep1,NA,0,1,lipid biosynthesis,1,1,1,1,1,18.69,1418.13,0.26,2.07,85.94,Low
+Phaeodactylum tricornutum,NA,SRR1208037,PRJNA242990,Nitrogen,without nitrogen source,without nitrogen rep2,NA,0,2,lipid biosynthesis,1,1,1,1,1,17.52,1217.21,0.86,4,86.53,Medium
+Phaeodactylum tricornutum,NA,SRR1208038,PRJNA242990,Nitrogen,without nitrogen source,without nitrogen rep3,NA,0,3,lipid biosynthesis,1,1,1,1,1,15.5,3527.86,1.9,4.93,81.26,Medium

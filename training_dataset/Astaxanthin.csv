@@ -1,0 +1,201 @@
+Species,Strain,Run,Bioproject,Condition,Condition_detail,Sample_id,Genotype_label,Is_control,Replicate,Compound,BKT,crtZ,crtW,PDS,ZDS,crtB,lcyB,BKT_TPM,crtZ_TPM,crtW_TPM,PDS_TPM,ZDS_TPM,lcyB_TPM,crtB_TPM,Label 
+Haematococcus pluvialis,NBU489,SRR29906351,PRJNA1138290,Chemical_treatment,1_mm_guanine,HL-Day5-Gua-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,948.69,140.5,316.23,332.12,163.77,337.59,303.01,Medium
+Haematococcus pluvialis,NBU489,SRR29906352,PRJNA1138290,Chemical_treatment,1_mm_guanine,HL-Day5-Gua-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,1118.79,180.26,372.93,356.98,176.88,332.75,328.49,Medium
+Haematococcus pluvialis,NBU489,SRR29906353,PRJNA1138290,Chemical_treatment,1_mm_guanine,HL-Day5-Gua-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,912.03,135.95,304.01,315.34,122.87,236.36,229.38,Medium
+Haematococcus pluvialis,NBU489,SRR29906354,PRJNA1138290,Chemical_treatment,1_mm_uridine,HL-Day5-Uri-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1197.3,128.45,399.1,447.42,193.82,440.16,273.64,Medium
+Haematococcus pluvialis,NBU489,SRR29906355,PRJNA1138290,Chemical_treatment,1_mm_uridine,HL-Day5-Uri-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,939.54,133.2,313.18,369.59,175.01,371.56,302.07,Medium
+Haematococcus pluvialis,NBU489,SRR29906356,PRJNA1138290,Chemical_treatment,1_mm_uridine,HL-Day5-Uri-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1050.69,130.77,350.23,377.03,176.29,371.25,276.6,Medium
+Haematococcus pluvialis,NBU489,SRR29906357,PRJNA1138290,Light,high_light,HL-Day1-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,320.67,66.32,106.89,142.6,52.56,138.72,77.67,Low
+Haematococcus pluvialis,NBU489,SRR29906358,PRJNA1138290,Chemical_treatment,1_mm_taurine,HL-Day3-Tau-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1016.64,171.33,338.88,192.27,82.81,189.06,170.4,Medium
+Haematococcus pluvialis,NBU489,SRR29906359,PRJNA1138290,Chemical_treatment,1_mm_taurine,HL-Day3-Tau-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,1249.14,189.77,416.38,293.97,120.08,310.14,244.47,High
+Haematococcus pluvialis,NBU489,SRR29906360,PRJNA1138290,Chemical_treatment,1_mm_taurine,HL-Day3-Tau-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1232.73,176.34,410.91,360.9,96.41,276.75,222.32,Medium
+Haematococcus pluvialis,NBU489,SRR29906361,PRJNA1138290,Chemical_treatment,1_mm_xanthosine,HL-Day3-Xan-6,NA,0,6,astaxanthin,1,1,1,1,1,1,1,623.25,84.89,207.75,209.13,78.77,249.16,119.08,Medium
+Haematococcus pluvialis,NBU489,SRR29906362,PRJNA1138290,Chemical_treatment,1_mm_xanthosine,HL-Day3-Xan-5,NA,0,5,astaxanthin,1,1,1,1,1,1,1,676.08,113.98,225.36,204.14,91.51,276.58,146.65,Medium
+Haematococcus pluvialis,NBU489,SRR29906363,PRJNA1138290,Chemical_treatment,1_mm_xanthosine,HL-Day3-Xan-4,NA,0,4,astaxanthin,1,1,1,1,1,1,1,700.05,115.32,233.35,211.58,80.65,255.57,135.38,Medium
+Haematococcus pluvialis,NBU489,SRR29906364,PRJNA1138290,Chemical_treatment,1_mm_xanthosine,HL-Day3-Xan-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,694.32,197.14,231.44,148.48,121.42,159.8,246.24,High
+Haematococcus pluvialis,NBU489,SRR29906366,PRJNA1138290,Chemical_treatment,1_mm_xanthosine,HL-Day3-Xan-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,813.54,219.91,271.18,187.44,146.88,207.41,312.52,High
+Haematococcus pluvialis,NBU489,SRR29906367,PRJNA1138290,Genotype,mutant,HL-60h-Mutant-3,MT,0,3,astaxanthin,1,1,1,1,1,1,1,4159.17,1259.91,1386.39,605.89,491.46,406.86,1263.38,High
+Haematococcus pluvialis,NBU489,SRR29906368,PRJNA1138290,Carbon_source,1.8_g/l_sodium_acetate_low_light,LL-Exponential-NaAc-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,24.72,2.25,8.24,5.12,1.43,27.17,10.91,Low
+Haematococcus pluvialis,NBU489,SRR29906369,PRJNA1138290,Genotype,mutant,HL-60h-Mutant-2,MT,0,2,astaxanthin,1,1,1,1,1,1,1,3278.28,933.26,1092.76,456.51,322.72,327.3,887.61,High
+Haematococcus pluvialis,NBU489,SRR29906370,PRJNA1138290,Genotype,mutant,HL-60h-Mutant-1,MT,0,1,astaxanthin,1,1,1,1,1,1,1,2562.69,851.6,854.23,273.76,178.05,190.66,550.59,High
+Haematococcus pluvialis,NBU489,SRR29906371,PRJNA1138290,Salt_Osmotic,0.5_g/l_NaCl_plus_0.5_mm_CMP,HL-Day2-NaCl-CMP-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,265.08,41.51,88.36,85.32,33.02,105.25,54.44,Low
+Haematococcus pluvialis,NBU489,SRR29906372,PRJNA1138290,Salt_Osmotic,0.5_g/l_NaCl_plus_0.5_mm_CMP,HL-Day2-NaCl-CMP-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,266.37,27.26,88.79,78.32,32.03,129.31,49.07,Low
+Haematococcus pluvialis,NBU489,SRR29906373,PRJNA1138290,Salt_Osmotic,0.5_g/l_NaCl_plus_0.5_mm_CMP,HL-Day2-NaCl-CMP-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,286.62,41.34,95.54,88.39,40.48,145.09,46.08,Low
+Haematococcus pluvialis,NBU489,SRR29906374,PRJNA1138290,Carbon_source,5_mm_fructose_diphosphate,HL-Day5-5mM-FDP-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,2253.75,635.57,751.25,367.77,183,236.96,513.51,High
+Haematococcus pluvialis,NBU489,SRR29906375,PRJNA1138290,Carbon_source,5_mm_fructose_diphosphate,HL-Day5-5mM-FDP-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,2483.46,675.14,827.82,346.46,185.7,208.15,438.52,High
+Haematococcus pluvialis,NBU489,SRR29906376,PRJNA1138290,Carbon_source,5_mm_fructose_diphosphate,HL-Day5-5mM-FDP-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,2153.97,669.98,717.99,324.38,167.83,220.9,446.62,High
+Haematococcus pluvialis,NBU489,SRR29906377,PRJNA1138290,Carbon_source,5_mm_fructose_diphosphate,HL-Day1-5mM-FDP-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,150.21,42.03,50.07,127.09,74.29,60.5,46.08,Medium
+Haematococcus pluvialis,NBU489,SRR29906378,PRJNA1138290,Carbon_source,5_mm_fructose_diphosphate,HL-Day1-5mM-FDP-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,119.25,41.44,39.75,79.21,68.81,46.67,34.24,Medium
+Haematococcus pluvialis,NBU489,SRR29906379,PRJNA1138290,Carbon_source,1.8_g/l_sodium_acetate_low_light,LL-Exponential-NaAc-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,30.45,4.05,10.15,4.84,0.91,25.35,9.02,Medium
+Haematococcus pluvialis,NBU489,SRR29906380,PRJNA1138290,Carbon_source,5_mm_fructose_diphosphate,HL-Day1-5mM-FDP-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,138.21,43.38,46.07,105.15,67.96,53.43,44.09,Medium
+Haematococcus pluvialis,NBU489,SRR29906381,PRJNA1138290,Carbon_source,1_mm_fructose_diphosphate,HL-Day5-1mM-FDP-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1314.24,288.42,438.08,317.73,131.71,151.65,275.56,High
+Haematococcus pluvialis,NBU489,SRR29906382,PRJNA1138290,Carbon_source,1_mm_fructose_diphosphate,HL-Day5-1mM-FDP-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,1169.13,251.36,389.71,231.42,124.54,140.44,210.63,High
+Haematococcus pluvialis,NBU489,SRR29906383,PRJNA1138290,Carbon_source,1_mm_fructose_diphosphate,HL-Day5-1mM-FDP-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1348.95,280.9,449.65,330.37,135.87,176.51,286.09,High
+Haematococcus pluvialis,NBU489,SRR29906384,PRJNA1138290,Carbon_source,1_mm_fructose_diphosphate,HL-Day1-1mM-FDP-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,241.26,55.16,80.42,178.82,96.15,84.76,56.82,Medium
+Haematococcus pluvialis,NBU489,SRR29906385,PRJNA1138290,Carbon_source,1_mm_fructose_diphosphate,HL-Day1-1mM-FDP-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,251.25,54.53,83.75,130.69,98.24,87.28,59.6,Medium
+Haematococcus pluvialis,NBU489,SRR29906386,PRJNA1138290,Carbon_source,1_mm_fructose_diphosphate,HL-Day1-1mM-FDP-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,251.43,50.85,83.81,116.16,93.9,75.11,50.9,Medium
+Haematococcus pluvialis,NBU489,SRR29906387,PRJNA1138290,Nitrogen,nitrogen-repletion,HL-Day5-NR-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,421.5,87.59,140.5,143.59,85.73,131.47,163.33,Medium
+Haematococcus pluvialis,NBU489,SRR29906388,PRJNA1138290,Nitrogen,nitrogen-repletion,HL-Day5-NR-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,351.33,84.46,117.11,115.81,72.26,92.03,127.29,Medium
+Haematococcus pluvialis,NBU489,SRR29906389,PRJNA1138290,Nitrogen,nitrogen-repletion,HL-Day5-NR-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,574.29,116.12,191.43,146.57,77.11,121.38,162.55,Medium
+Haematococcus pluvialis,NBU489,SRR29906390,PRJNA1138290,Carbon_source,1.8_g/l_sodium_acetate_low_light,LL-Exponential-NaAc-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,31.86,4.83,10.62,5.29,1.13,33.33,10.98,Low
+Haematococcus pluvialis,NBU489,SRR29906391,PRJNA1138290,Nitrogen,nitrogen-repletion,HL-Day1-NR-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,194.94,101.22,64.98,206.24,157.06,114.78,238.55,Medium
+Haematococcus pluvialis,NBU489,SRR29906392,PRJNA1138290,Nitrogen,nitrogen-repletion,HL-Day1-NR-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,183.12,103.36,61.04,192.24,143.25,109.04,227.51,Medium
+Haematococcus pluvialis,NBU489,SRR29906393,PRJNA1138290,Nitrogen,nitrogen-repletion,HL-Day1-NR-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,195.33,102.24,65.11,196.67,155.97,118.87,231.05,Medium
+Haematococcus pluvialis,NBU489,SRR29906394,PRJNA1138290,Nitrogen,nitrogen-deprivation,HL-Day5-ND-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1646.82,210.78,548.94,318.72,154.92,223.98,332.99,Medium
+Haematococcus pluvialis,NBU489,SRR29906395,PRJNA1138290,Nitrogen,nitrogen-deprivation,HL-Day5-ND-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,1670.1,204.09,556.7,291.53,175.51,221.8,328.58,Medium
+Haematococcus pluvialis,NBU489,SRR29906396,PRJNA1138290,Nitrogen,nitrogen-deprivation,HL-Day5-ND-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1571.4,170.03,523.8,260.48,152.28,188.22,266.54,Medium
+Haematococcus pluvialis,NBU489,SRR29906397,PRJNA1138290,Nitrogen,nitrogen-deprivation,HL-Day1-ND-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1209.03,447.85,403.01,409.88,300.22,254.87,455.97,High
+Haematococcus pluvialis,NBU489,SRR29906398,PRJNA1138290,Nitrogen,nitrogen-deprivation,HL-Day1-ND-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,1357.53,436.91,452.51,434.25,268.97,232.01,487.83,High
+Haematococcus pluvialis,NBU489,SRR29906399,PRJNA1138290,Nitrogen,nitrogen-deprivation,HL-Day1-ND-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1381.74,428.54,460.58,515.23,340.57,331.62,565.94,High
+Haematococcus pluvialis,NBU489,SRR29906400,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day10-KI-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1165.98,255.11,388.66,281.15,192.48,287.22,373.52,High
+Haematococcus pluvialis,NBU489,SRR29906401,PRJNA1138290,Light,low_light,LL-Exponential-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,58.05,24,19.35,7.6,0.86,30.92,11.43,Low
+Haematococcus pluvialis,NBU489,SRR29906402,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day10-KI-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,952.26,166.06,317.42,229.3,139,225.97,252.4,Medium
+Haematococcus pluvialis,NBU489,SRR29906403,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day10-KI-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1055.73,198.3,351.91,274.71,189.4,271.03,255.11,High
+Haematococcus pluvialis,NBU489,SRR29906404,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day5-1mM-KI-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,1002.6,168.37,334.2,260.77,165.59,263.49,223.37,Medium
+Haematococcus pluvialis,NBU489,SRR29906405,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day5-1mM-KI-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,1036.8,151.56,345.6,245.78,131.49,214.11,232.72,Medium
+Haematococcus pluvialis,NBU489,SRR29906406,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day5-1mM-KI-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,924.18,141.5,308.06,230.78,148.99,238.95,210.36,Medium
+Haematococcus pluvialis,NBU489,SRR29906407,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day1-1mM-KI-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,323.7,51.74,107.9,142.79,52.01,153.76,73.96,Low
+Haematococcus pluvialis,NBU489,SRR29906408,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day1-1mM-KI-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,297.9,50.44,99.3,134.31,37.28,100.23,79.26,Low
+Haematococcus pluvialis,NBU489,SRR29906409,PRJNA1138290,Chemical_treatment,1_mm_potassium_iodide,HL-Day1-1mM-KI-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,328.83,52.78,109.61,101.62,26.96,65.76,74.76,Medium
+Haematococcus pluvialis,NBU489,SRR29906410,PRJNA1138290,Light,high_light,HL-Day10-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,430.14,43,143.38,148.26,98.84,212.57,160.29,Medium
+Haematococcus pluvialis,NBU489,SRR29906411,PRJNA1138290,Light,high_light,HL-Day10-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,747.84,69.57,249.28,164.72,119.47,251.89,153.5,Medium
+Haematococcus pluvialis,NBU489,SRR29906412,PRJNA1138290,Light,low_light,LL-Exponential-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,62.22,20.22,20.74,5.91,1.07,34.23,11.99,Low
+Haematococcus pluvialis,NBU489,SRR29906413,PRJNA1138290,Light,high_light,HL-Day10-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,388.29,8.83,129.43,98.96,82.81,119.15,108.2,Low
+Haematococcus pluvialis,NBU489,SRR29906414,PRJNA1138290,Light,high_light,HL-Day5-9,NA,0,9,astaxanthin,1,1,1,1,1,1,1,382.53,34.19,127.51,181.96,106.84,198.86,135.61,Medium
+Haematococcus pluvialis,NBU489,SRR29906415,PRJNA1138290,Light,high_light,HL-Day5-8,NA,0,8,astaxanthin,1,1,1,1,1,1,1,348.9,34.72,116.3,216.68,151.82,259.02,157.14,Medium
+Haematococcus pluvialis,NBU489,SRR29906416,PRJNA1138290,Light,high_light,HL-Day5-7,NA,0,7,astaxanthin,1,1,1,1,1,1,1,368.88,39.26,122.96,204.89,136.21,254.41,175.68,Medium
+Haematococcus pluvialis,NBU489,SRR29906417,PRJNA1138290,Light,high_light,HL-Day5-6,NA,1,6,astaxanthin,1,1,1,1,1,1,1,356.43,116.82,118.81,224.07,118.33,194.18,268.76,Medium
+Haematococcus pluvialis,NBU489,SRR29906418,PRJNA1138290,Light,high_light,HL-Day5-5,NA,1,5,astaxanthin,1,1,1,1,1,1,1,360.63,139.67,120.21,269.84,173.01,302.4,331.33,Medium
+Haematococcus pluvialis,NBU489,SRR29906419,PRJNA1138290,Light,high_light,HL-Day5-4,NA,1,4,astaxanthin,1,1,1,1,1,1,1,308.4,120.5,102.8,264.6,184.66,268.22,334.59,Medium
+Haematococcus pluvialis,NBU489,SRR29906420,PRJNA1138290,Light,high_light,HL-Day5-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,792.63,115.67,264.21,281.04,130.19,164.44,227.22,Medium
+Haematococcus pluvialis,NBU489,SRR29906421,PRJNA1138290,Light,high_light,HL-Day5-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,789.81,106.93,263.27,271.08,122.71,179.85,214.86,Medium
+Haematococcus pluvialis,NBU489,SRR29906422,PRJNA1138290,Light,high_light,HL-Day5-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,800.07,125.57,266.69,318.82,145.87,195.38,251.35,Medium
+Haematococcus pluvialis,NBU489,SRR29906423,PRJNA1138290,Light,low_light,LL-Exponential-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,71.58,25.1,23.86,8.29,3.32,28.71,13.65,Low
+Haematococcus pluvialis,NBU489,SRR29906424,PRJNA1138290,Light,high_light,HL-Day3-9,NA,1,9,astaxanthin,1,1,1,1,1,1,1,169.8,24.55,56.6,109.35,52.93,133.17,114.23,Low
+Haematococcus pluvialis,NBU489,SRR29906425,PRJNA1138290,Light,high_light,HL-Day3-8,NA,1,8,astaxanthin,1,1,1,1,1,1,1,153.03,22.27,51.01,135.13,69.23,155.18,113.7,Low
+Haematococcus pluvialis,NBU489,SRR29906426,PRJNA1138290,Light,high_light,HL-Day3-7,NA,1,7,astaxanthin,1,1,1,1,1,1,1,148.62,22.4,49.54,118.4,52.16,130.86,101.16,Low
+Haematococcus pluvialis,NBU489,SRR29906427,PRJNA1138290,Light,high_light,HL-Day3-6,NA,1,6,astaxanthin,1,1,1,1,1,1,1,294.27,65.71,98.09,86.65,38.44,77.53,105.71,Medium
+Haematococcus pluvialis,NBU489,SRR29906428,PRJNA1138290,Light,high_light,HL-Day3-5,NA,1,5,astaxanthin,1,1,1,1,1,1,1,324.66,59.8,108.22,117.38,33.21,68.92,126.54,Medium
+Haematococcus pluvialis,NBU489,SRR29906429,PRJNA1138290,Light,high_light,HL-Day3-4,NA,1,4,astaxanthin,1,1,1,1,1,1,1,348.33,57.29,116.11,93.37,35.22,75.26,120.44,Medium
+Haematococcus pluvialis,NBU489,SRR29906430,PRJNA1138290,Light,high_light,HL-Day3-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,494.46,122.78,164.82,169.53,128.87,185.65,262.4,Medium
+Haematococcus pluvialis,NBU489,SRR29906431,PRJNA1138290,Light,high_light,HL-Day3-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,532.32,132.71,177.44,185.98,127.54,193.66,281.85,Medium
+Haematococcus pluvialis,NBU489,SRR29906432,PRJNA1138290,Light,high_light,HL-Day3-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,600.15,191.65,200.05,153.99,121.67,160.13,286.26,Medium
+Haematococcus pluvialis,NBU489,SRR29906433,PRJNA1138290,Light,high_light,HL-60h-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,1090.47,409.31,363.49,299.17,162.94,213.61,444.78,High
+Haematococcus pluvialis,NBU489,SRR29906434,PRJNA1138290,Light,low_light,LL-Plateau-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,19.71,12.36,6.57,119.7,79.86,52.33,47.9,Low
+Haematococcus pluvialis,NBU489,SRR29906435,PRJNA1138290,Light,high_light,HL-60h-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,823.02,188.74,274.34,195.69,135.38,167.42,247.53,High
+Haematococcus pluvialis,NBU489,SRR29906436,PRJNA1138290,Light,high_light,HL-60h-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,1080.21,298.15,360.07,231.11,157.07,161.9,305.04,High
+Haematococcus pluvialis,NBU489,SRR29906437,PRJNA1138290,Light,high_light,HL-Day2-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,116.13,32.07,38.71,60.79,36.53,41.58,68.98,Low
+Haematococcus pluvialis,NBU489,SRR29906438,PRJNA1138290,Light,high_light,HL-Day2-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,128.88,38.4,42.96,70.4,39.76,55.1,68.52,Low
+Haematococcus pluvialis,NBU489,SRR29906439,PRJNA1138290,Light,high_light,HL-Day2-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,93.72,28.86,31.24,60.87,27.8,44.25,56.5,Low
+Haematococcus pluvialis,NBU489,SRR29906440,PRJNA1138290,Light,high_light,HL-Day1-6,NA,1,6,astaxanthin,1,1,1,1,1,1,1,404.67,107.55,134.89,171.6,108.09,98.82,113.26,Medium
+Haematococcus pluvialis,NBU489,SRR29906441,PRJNA1138290,Light,high_light,HL-Day1-5,NA,1,5,astaxanthin,1,1,1,1,1,1,1,435.78,132.29,145.26,206.11,115.88,122.13,152.22,Medium
+Haematococcus pluvialis,NBU489,SRR29906442,PRJNA1138290,Light,high_light,HL-Day1-4,NA,1,4,astaxanthin,1,1,1,1,1,1,1,507.99,144.19,169.33,235.11,128.99,144.23,181.63,Medium
+Haematococcus pluvialis,NBU489,SRR29906443,PRJNA1138290,Light,high_light,HL-Day1-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,397.8,81.15,132.6,98.34,51.34,89.95,78.4,Medium
+Haematococcus pluvialis,NBU489,SRR29906444,PRJNA1138290,Light,high_light,HL-Day1-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,329.16,64.11,109.72,105.15,38.95,72.55,69.53,Medium
+Haematococcus pluvialis,NBU489,SRR29906445,PRJNA1138290,Light,low_light,LL-Plateau-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,23.94,6.94,7.98,116.64,88.79,45.84,42.96,Low
+Haematococcus pluvialis,NBU489,SRR29906446,PRJNA1138290,Light,low_light,LL-Plateau-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,15.93,8.53,5.31,103.63,72.11,39.49,45.36,Low
+Haematococcus lacustris,CCAP 34/8,SRR13041466,PRJNA677915,Nitrogen,moderate nitrate limitation (2 mM nitrate in feed medium),NO3_2mM_1,,0,1,astaxanthin,1,1,1,1,1,1,1,376.8,599.74,125.6,516.1,167.74,670.28,775.49,Medium
+Haematococcus lacustris,CCAP 34/8,SRR13041467,PRJNA677915,Nitrogen,moderate nitrate limitation (2 mM nitrate in feed medium),NO3_2mM_2,,0,2,astaxanthin,1,1,1,1,1,1,1,429.3,714.58,143.1,500.44,141.21,534.39,753.76,High
+Haematococcus lacustris,CCAP 34/8,"SRR13041468	",PRJNA677915,Nitrogen,nitrate sufficiency (15 mM in the feed medium),NO3_15mM_1,,1,1,astaxanthin,1,1,1,1,1,1,1,56.67,81.86,18.89,103.86,38.49,90.28,145.11,Medium
+Haematococcus lacustris,CCAP 34/8,"SRR13041469	",PRJNA677915,Nitrogen,nitrate sufficiency (15 mM in the feed medium),NO3_15mM_2,,1,2,astaxanthin,1,1,1,1,1,1,1,67.98,82.9,22.66,83.24,46.88,77.11,106.71,Medium
+Chlamydomonas reinhardtii,"P1 (transformant, PrBKT OE)",SRR23699950,PRJNA940914,Genotype,mutantion_with_overexpression_of_PrBKT,MT-H1-3,Overexpression,0,3,Carotenoid,1,1,1,1,1,1,1,9.66,6.13,3.22,53,32.66,23.4,21.13,High
+Chlamydomonas reinhardtii,"P1 (transformant, PrBKT OE)",SRR23699951,PRJNA940914,Genotype,mutantion_with_overexpression_of_PrBKT,MT-H1-2,Overexpression,0,2,Carotenoid,1,1,1,1,1,1,1,1.65,20.5,0.55,72.66,47.2,61.46,38.39,Medium
+Chlamydomonas reinhardtii,"P1 (transformant, PrBKT OE)",SRR23699952,PRJNA940914,Genotype,mutantion_with_overexpression_of_PrBKT,MT-H1-1,Overexpression,0,1,Carotenoid,1,1,1,1,1,1,1,13.02,3.97,4.34,44.34,29.45,58.58,60.35,Medium
+Chlamydomonas reinhardtii,"C18 (transformant, CrBKT OE) ",SRR23699953,PRJNA940914,Genotype,mutantion_with_overexpression_of_CrBKT,MT-C18-3,Overexpression,0,3,Carotenoid,1,1,1,1,1,1,1,25.89,5.24,8.63,24.48,19.93,20.39,17.66,Medium
+Chlamydomonas reinhardtii,"C18 (transformant, CrBKT OE)",SRR23699954,PRJNA940914,Genotype,mutantion_with_overexpression_of_CrBKT,MT-C18-2,Overexpression,0,2,Carotenoid,1,0,1,1,1,1,1,18.87,0,6.29,10.89,13.7,13.39,8.16,Medium
+Chlamydomonas reinhardtii,"C18 (transformant, CrBKT OE)",SRR23699955,PRJNA940914,Genotype,mutantion_with_overexpression_of_CrBKT,MT-C18-1,Overexpression,0,1,Carotenoid,1,1,1,1,1,1,1,22.38,1.18,7.46,26.5,23.35,24.53,19.69,High
+Chlamydomonas reinhardtii,CC-125 (WT),SRR23699956,PRJNA940914,Genotype,wild_type,WT-3,WT,1,3,Carotenoid,1,1,1,1,1,1,1,9.9,2.49,3.3,24.53,13.01,11.21,10.44,Medium
+Chlamydomonas reinhardtii,CC-125 (WT),SRR23699957,PRJNA940914,Genotype,wild_type,WT-2,WT,1,2,Carotenoid,1,1,1,1,1,1,1,8.49,0.93,2.83,23.38,8.1,9.44,8.3,Low
+Chlamydomonas reinhardtii,CC-125 (WT),SRR23699958,PRJNA940914,Genotype,wild_type,WT-1,WT,1,1,Carotenoid,1,1,1,1,1,1,1,5.67,0.71,1.89,22.63,6.06,7.31,5.66,Low
+Chromochloris zofingiensis,SAG 211-14,SRR5117281,PRJNA357849,Other,proteose_medium_N/A_no_light,48h_dark,NA,1,1,astaxanthin,1,1,1,1,1,1,1,527.1,364.17,175.7,57.07,107.32,60.74,483.16,High
+Chromochloris zofingiensis,SAG 211-14,SRR5117282,PRJNA357849,Light,proteose_medium_rose_bengal_treatment_5um_0.5h_dark_1h _light_med_light_100µmol_photons_m^-2_s^-1,1h_low_RB,NA,0,1,astaxanthin,1,1,1,1,1,1,1,474.9,150.1,158.3,51.53,48.22,192.41,377.68,High
+Chromochloris zofingiensis,SAG 211-14,SRR5117283,PRJNA357849,Chemical_treatment,proteose_medium_H2O2_1mm_2h_med_light_100µmol_photons_m^-2_s^-1,2h_H2O2,NA,0,1,astaxanthin,1,1,1,1,1,1,1,1484.28,93.57,494.76,16.58,478.05,249.74,528.33,High
+Chromochloris zofingiensis,SAG 211-14,SRR5117284,PRJNA357849,Other,proteose_medium_-fe_N/A_med_light_100µmol_photons_m^-2_s^-1,1h_noFe,NA,0,1,astaxanthin,1,1,1,1,1,1,1,18.99,41.1,6.33,90.23,203.59,125.76,241.06,Low
+Chromochloris zofingiensis,SAG 211-14,SRR5117285,PRJNA357849,Other,proteose_medium_-p_N/A_med_light_100µmol_photons_m^-2_s^-1,1h_noP,NA,0,1,astaxanthin,1,1,1,1,1,1,1,16.5,34.6,5.5,84.5,235.65,121.25,160.58,Low
+Chromochloris zofingiensis,SAG 211-14,SRR5117286,PRJNA357849,Other,proteose_medium_-s_N/A_med_light_100µmol_photons_m^-2_s^-1,1h_noS,NA,0,1,astaxanthin,1,1,1,1,1,1,1,11.34,38.23,3.78,90.17,224.93,99.99,176.31,Low
+Chromochloris zofingiensis,SAG 211-14,SRR5117287,PRJNA357849,Other,proteose_medium_N/A_no_light,4h_dark_anaerobic,NA,1,1,astaxanthin,1,1,1,1,1,1,1,50.34,82.79,16.78,46.26,122.98,84.58,48.62,Medium
+Chromochloris zofingiensis,SAG 211-14,SRR5117288,PRJNA357849,Light,proteose_medium_rose_bengal_treatment_5um_1h_dark_3h_light_med_light_100µmol_photons_m^-2_s^-1,3h_high_RB,NA,0,1,astaxanthin,1,1,1,1,1,1,1,291.96,124.48,97.32,28.02,194.87,129.17,80.86,High
+Chromochloris zofingiensis,SAG 211-14,SRR5117289,PRJNA357849,Other,proteose_medium_N/A_med_light_100µmol_photons_m^-2_s^-1,med_light,NA,1,1,astaxanthin,1,1,1,1,1,1,1,156.18,60.22,52.06,39.87,116.85,112.01,191.59,Medium
+Chromochloris zofingiensis,SAG 211-14,SRR5117290,PRJNA357849,Other,proteose_medium_N/A_low_light_40µmol_photons_m^-2_s^-1,low_light,NA,1,1,astaxanthin,1,1,1,1,1,1,1,191.22,92.6,63.74,41.57,89.92,84.25,238.48,Medium
+Chromochloris zofingiensis,SAG 211-14,SRR5117291,PRJNA357849,Other,proteose_medium_N/A_high_light_400µmol_photons_m^-2_s^-1,high_light,NA,1,1,astaxanthin,1,1,1,1,1,1,1,206.07,82.84,68.69,89.96,199.04,93.36,291.14,Medium
+Chromochloris zofingiensis,SAG 211-14,SRR5117292,PRJNA357849,Carbon_source,proteose_medium_+_20mm_glucose_72h_N/A_med_light_100µmol_photons_m^-2_s^-1,glucose,NA,0,1,astaxanthin,1,1,1,1,1,1,1,96.15,217.18,32.05,46.15,82.57,92.79,145.27,Medium
+Chromochloris zofingiensis,SAG 211-14,SRR5117293,PRJNA357849,Other,proteose_medium_N/A_med_light_100µmol_photons_m^-2_s^-1,4h_anaerobic,NA,0,1,astaxanthin,1,1,1,1,1,1,1,43.35,89.51,14.45,79.52,165.99,186.85,488.5,Medium
+Chromochloris zofingiensis,SAG 211-14,SRR5117294,PRJNA357849,Other,proteose_medium_-n_N/A_med_light_100µmol_photons_m^-2_s^-1,1h_noN,NA,0,1,astaxanthin,1,1,1,1,1,1,1,40.53,22.96,13.51,66.57,248.14,139.29,96.81,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117295,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0h,ML.0h_repA,,1,1,astaxanthin,1,1,1,1,1,1,1,144.27,257.86,48.09,207.31,184.23,184.15,485.53,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117296,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0h,ML.0h_repB,,1,2,astaxanthin,1,1,1,1,1,1,1,48.75,252.49,16.25,220.16,167.25,161.89,362.65,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117297,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0h,ML.0h_repC,,1,3,astaxanthin,1,1,1,1,1,1,1,110.79,289.07,36.93,210.23,181.83,164.88,537.11,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117298,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0h,ML.0h_repD,,1,4,astaxanthin,1,1,1,1,1,1,1,130.8,253.42,43.6,210.58,202.76,150.19,518.58,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117299,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0.5h,ML0.5h_repA,,1,1,astaxanthin,1,1,1,1,1,1,1,63.27,286.82,21.09,224.96,208.63,162.65,526.58,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117300,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0.5h,ML0.5h_repB,,1,2,astaxanthin,1,1,1,1,1,1,1,140.55,258.63,46.85,206.29,212.71,156.6,468.18,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117301,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0.5h,ML0.5h_repC,,1,3,astaxanthin,1,1,1,1,1,1,1,99.45,259,33.15,190.73,191.46,133.44,442.18,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117302,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_0.5h,ML0.5h_repD,,1,4,astaxanthin,1,1,1,1,1,1,1,83.13,317.54,27.71,204.57,209.93,176.42,556.44,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117303,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_1h,ML.1h_repA,,1,1,astaxanthin,1,1,1,1,1,1,1,55.08,264.29,18.36,223.91,239.3,144.11,365.12,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117304,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_1h,ML.1h_repB,,1,2,astaxanthin,1,1,1,1,1,1,1,70.08,289.71,23.36,179.48,202.14,169.91,483.29,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117305,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_1h,ML.1h_repC,,1,3,astaxanthin,1,1,1,1,1,1,1,92.34,315.38,30.78,169.76,209.07,159.23,475.64,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117306,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_1h,ML.1h_repD,,1,4,astaxanthin,1,1,1,1,1,1,1,84.96,310.41,28.32,202.55,206.74,183.13,512.31,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117307,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_3h,ML.3h_repA,,1,1,astaxanthin,1,1,1,1,1,1,1,59.79,222.81,19.93,139.86,189.68,141.8,399.15,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117308,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_3h,ML.3h_repB,,1,2,astaxanthin,1,1,1,1,1,1,1,30.78,226,10.26,132.12,152.12,128.47,355.64,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117309,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_3h,ML.3h_repC,,1,3,astaxanthin,1,1,1,1,1,1,1,7.26,251.1,2.42,149.9,187.65,147,338.73,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117310,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_3h,ML.3h_repD,,1,4,astaxanthin,1,1,1,1,1,1,1,39.6,245.06,13.2,134.65,155.6,157.28,351.35,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117311,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_6h,ML.6h_repA,,1,1,astaxanthin,1,1,1,1,1,1,1,23.49,131.85,7.83,64.55,86.13,109.54,213.62,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117312,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_6h,ML.6h_repB,,1,2,astaxanthin,1,1,1,1,1,1,1,11.22,138.98,3.74,64.36,91.59,155.69,228.83,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117313,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_6h,ML.6h_repC,,1,3,astaxanthin,1,1,1,1,1,1,1,3.66,142.05,1.22,65.53,103.64,133.05,194.19,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117314,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_6h,ML.6h_repD,,1,4,astaxanthin,1,1,0,0,1,1,1,0,153.61,0,69.99,74.32,156.72,256.61,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117315,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_12h,ML.12h_repA,,1,1,astaxanthin,1,1,1,1,1,1,1,18.33,142.43,6.11,78.22,121.1,105.12,322.52,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117316,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_12h,ML.12h_repB,,1,2,astaxanthin,1,1,1,1,1,1,1,21.27,186.04,7.09,70.54,106.36,101.42,333.74,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117317,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_12h,ML.12h_repC,,1,3,astaxanthin,1,1,1,1,1,1,1,22.65,125.96,7.55,84.2,109.88,118.63,354.09,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117318,PRJNA357850,"Light",100 μmol photons⋅m−2⋅s−1 medium_light_12h,ML.12h_repD,,1,4,astaxanthin,1,1,1,1,1,1,1,31.44,157.23,10.48,66.05,101.63,115.78,362.92,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117319,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_0.5h,HL.0.5h_repA,,0,1,astaxanthin,1,1,1,1,1,1,1,566.49,413.17,188.83,279.26,350.31,227.69,731.85,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117320,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_0.5h,HL.0.5h_repB,,0,2,astaxanthin,1,1,1,1,1,1,1,611.34,413.92,203.78,279.81,306.19,234.92,662.24,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117321,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_0.5h,HL.0.5h_repC,,0,3,astaxanthin,1,1,1,1,1,1,1,604.95,418.48,201.65,279.54,317.43,211.12,742.51,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117322,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_0.5h,HL.0.5h_repD,,0,4,astaxanthin,1,1,1,1,1,1,1,438.69,432.6,146.23,272.73,281.19,225.69,694.2,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117323,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_1h,HL.1h_repA,,0,1,astaxanthin,1,1,1,1,1,1,1,197.07,251.63,65.69,350.72,356.6,220.43,424.34,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117324,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_1h,HL.1h_repB,,0,2,astaxanthin,1,1,1,1,1,1,1,300.54,339.25,100.18,347.73,446.27,200.82,612.69,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117325,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_1h,HL.1h_repC,,0,3,astaxanthin,1,1,1,1,1,1,1,218.43,301.06,72.81,326.47,411.15,227.31,525.78,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117326,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_1h,HL.1h_repD,,0,4,astaxanthin,1,1,1,1,1,1,1,271.53,337.64,90.51,348.21,420.28,238.44,528.05,High
+Chromochloris zofingiensis,SAG 211–14,SRR5117327,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_3h,HL.3h_repA,,0,1,astaxanthin,1,1,1,1,1,1,1,30.93,200.22,10.31,162.64,166.07,210.76,361.02,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117328,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_3h,HL.3h_repB,,0,2,astaxanthin,1,1,1,1,1,1,1,56.67,220.16,18.89,184.22,208.17,148.32,359.18,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117329,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_3h,HL.3h_repC,,0,3,astaxanthin,1,1,1,1,1,1,1,52.65,232.22,17.55,161.69,217.74,142.32,362.56,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117330,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_3h,HL.3h_repD,,0,4,astaxanthin,1,1,1,1,1,1,1,49.44,242.37,16.48,162.58,209.66,183.57,319.31,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117331,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_6h,HL.6h_repA,,0,1,astaxanthin,1,1,1,1,1,1,1,28.62,126.06,9.54,78.42,85.42,124.02,154.67,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117332,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_6h,HL.6h_repB,,0,2,astaxanthin,1,1,0,0,1,1,1,0,138.91,0,87.38,130.92,130.95,254.49,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117334,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_6h,HL.6h_repD,,0,4,astaxanthin,1,1,1,1,1,1,1,11.76,160.72,3.92,92.5,147.34,146.01,243.14,Low
+Chromochloris zofingiensis,SAG 211–14,SRR5117335,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_12h,HL.12h_repA,,0,1,astaxanthin,1,1,1,1,1,1,1,41.49,135.87,13.83,82.65,129,120.87,254.18,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117336,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_12h,HL.12h_repB,,0,2,astaxanthin,1,1,1,1,1,1,1,45.72,150,15.24,75.5,138.23,106.52,248.41,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117337,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_12h,HL.12h_repC,,0,3,astaxanthin,1,1,1,1,1,1,1,53.91,137.88,17.97,84.61,153.47,135.37,247.85,Medium
+Chromochloris zofingiensis,SAG 211–14,SRR5117338,PRJNA357850,"Light",400 μmol photons⋅m−2⋅s−1 high_light_12h,HL.12h_repD,,0,4,astaxanthin,1,1,1,1,1,1,1,58.26,140.82,19.42,84.88,133.83,111.04,267.39,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986838,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 0 h rep1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,64.68,75.15,21.56,68.48,105.95,55.12,99.38,High
+Chromochloris zofingiensis,ATCC 30412,SRR8986839,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 0 h rep2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,71.37,60.53,23.79,66.3,102.1,63.76,98.48,High
+Chromochloris zofingiensis,ATCC 30412,SRR8986840,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 0 h rep3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,57.51,51.72,19.17,61.56,111.93,51.95,103.73,High
+Chromochloris zofingiensis,ATCC 30412,SRR8986841,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 6 h rep1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,20.46,8.44,6.82,18.68,214.13,85.79,28.72,Low
+Chromochloris zofingiensis,ATCC 30412,SRR8986844,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 12 h rep1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,14.34,46.72,4.78,54.36,148.27,50.14,59.28,Low
+Chromochloris zofingiensis,ATCC 30412,SRR8986845,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 12 h rep2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,28.41,52.76,9.47,54.32,148.81,57.21,58.92,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986846,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 12 h rep3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,34.98,43.59,11.66,48.64,157.04,51.42,56.8,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986847,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 24 h rep1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,61.29,61.34,20.43,20.37,105.44,84.61,62.99,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986848,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 24 h rep2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,54.06,51.94,18.02,20.67,104.12,85.41,75.42,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986849,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 24 h rep3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,52.14,50.72,17.38,27.66,105.01,90.65,66.57,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986850,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 48 h rep1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,31.44,61.25,10.48,72.41,180.56,106.8,72.9,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986851,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 48 h rep2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,21.78,45.02,7.26,76.91,172.78,128.72,73.17,Low
+Chromochloris zofingiensis,ATCC 30412,SRR8986852,PRJNA540281,Sulfur,sulfur_starvation_stress,SS 48 h rep3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,29.82,55.37,9.94,68.69,138.11,132.39,69.36,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR8986853,PRJNA540281,Sulfur,sulfur_replenishment,replenish 12 h rep1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,32.73,87.92,10.91,97.21,117.64,50.06,115.86,High
+Chromochloris zofingiensis,ATCC 30412,SRR8986855,PRJNA540281,Sulfur,sulfur_replenishment,replenish 12 h rep3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,36.63,85.66,12.21,83.05,109.11,50.8,127.4,High
+Chromochloris zofingiensis,ATCC 30412,SRR7074962,PRJNA454009,Nitrogen,nitrogen_deprivation_for_0h_autotrophy,ND0-1,NA,1,1,astaxanthin,1,1,1,1,1,1,1,14.19,104.54,4.73,62.77,137.23,149.01,102.96,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074963,PRJNA454009,Nitrogen,nitrogen_deprivation_for_0h_autotrophy,ND0-2,NA,1,2,astaxanthin,1,1,1,1,1,1,1,9.48,95.67,3.16,98.81,131.95,142.56,108.98,Low
+Chromochloris zofingiensis,ATCC 30412,SRR7074964,PRJNA454009,Nitrogen,nitrogen_deprivation_for_0h_autotrophy,ND0-3,NA,1,3,astaxanthin,1,1,1,1,1,1,1,8.61,111.9,2.87,98.77,115.18,143.74,104.86,Low
+Chromochloris zofingiensis,ATCC 30412,SRR7074965,PRJNA454009,Nitrogen,nitrogen_deprivation_for_3h_autotrophy,ND3-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,41.22,326.24,13.74,40.31,145.9,604.85,140.86,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074966,PRJNA454009,Nitrogen,nitrogen_deprivation_for_3h_autotrophy,ND3-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,42.72,338.75,14.24,91.3,222.65,561.41,171.94,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074967,PRJNA454009,Nitrogen,nitrogen_deprivation_for_3h_autotrophy,ND3-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,28.02,213.22,9.34,86.64,183.52,551.54,127.47,Low
+Chromochloris zofingiensis,ATCC 30412,SRR7074969,PRJNA454009,Nitrogen,nitrogen_deprivation_for_6h_autotrophy,ND6-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,20.55,476.64,6.85,50.91,157.84,649,234.26,Low
+Chromochloris zofingiensis,ATCC 30412,SRR7074970,PRJNA454009,Nitrogen,nitrogen_deprivation_for_6h_autotrophy,ND6-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,27.18,420.96,9.06,68.12,146.02,592.04,220.42,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074971,PRJNA454009,Nitrogen,nitrogen_deprivation_for_12h_autotrophy,ND12-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,26.91,437.07,8.97,68.14,107.1,585.04,255.62,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074972,PRJNA454009,Nitrogen,nitrogen_deprivation_for_12h_autotrophy,ND12-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,25.17,572.74,8.39,70.7,126.16,557.87,296.07,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074973,PRJNA454009,Nitrogen,nitrogen_deprivation_for_12h_autotrophy,ND12-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,33.51,450.95,11.17,70.7,121.29,601,277.08,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074974,PRJNA454009,Nitrogen,nitrogen_deprivation_for_24h_autotrophy,ND24-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,39.42,259.75,13.14,65.75,126.91,344.09,233.56,Low
+Chromochloris zofingiensis,ATCC 30412,SRR7074975,PRJNA454009,Nitrogen,nitrogen_deprivation_for_24h_autotrophy,ND24-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,59.01,282.08,19.67,62.42,125.78,355.22,282.84,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074976,PRJNA454009,Nitrogen,nitrogen_deprivation_for_24h_autotrophy,ND24-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,55.17,313.55,18.39,63.42,111.17,320.15,259.46,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074977,PRJNA454009,Nitrogen,nitrogen_deprivation_plus_10_um_cerulenin_for_6h,NDC6-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,20.88,532.15,6.96,55.63,142.94,519.08,232.66,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074978,PRJNA454009,Nitrogen,nitrogen_deprivation_plus_10_um_cerulenin_for_6h,NDC6-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,13.83,603.66,4.61,59.93,134.75,540.51,242.94,Medium
+Chromochloris zofingiensis,ATCC 30412,SRR7074979,PRJNA454009,Nitrogen,nitrogen_deprivation_plus_10_um_cerulenin_for_6h,NDC6-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,23.88,599.71,7.96,56.04,134.97,557.69,227.45,High
+Chromochloris zofingiensis,ATCC 30412,SRR7074980,PRJNA454009,Nitrogen,nitrogen_deprivation_plus_10_um_cerulenin_for_12h,NDC12-1,NA,0,1,astaxanthin,1,1,1,1,1,1,1,20.1,648.21,6.7,43.22,106.96,596.34,302.07,High
+Chromochloris zofingiensis,ATCC 30412,SRR7074981,PRJNA454009,Nitrogen,nitrogen_deprivation_plus_10_um_cerulenin_for_12h,NDC12-2,NA,0,2,astaxanthin,1,1,1,1,1,1,1,32.4,677.34,10.8,53.7,123.16,550.49,310.3,High
+Chromochloris zofingiensis,ATCC 30412,SRR7074982,PRJNA454009,Nitrogen,nitrogen_deprivation_plus_10_um_cerulenin_for_12h,NDC12-3,NA,0,3,astaxanthin,1,1,1,1,1,1,1,30.66,623.88,10.22,47.64,119.36,555.23,332.5,High
